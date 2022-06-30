@@ -2,7 +2,8 @@
 - 🌱 I'm currently doing Machine Learning Research and iOS Development work on my free time :D  
 - 📌 I’m currently gaining experience through my personal projects and applying my creativity and artistic skills to create designs and programs that will brighten your day 👩🏻‍💻
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rachruby.visitor-badge)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rachruby.hey-visitors!)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
