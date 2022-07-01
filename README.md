@@ -1,6 +1,7 @@
-- 👋 Hi, I'm Rachel, a senior highschooler who is passionate about computer science and software development! 
+- 👋 Hi, I'm Rubi, a senior high schooler who likes technology.  
 - 🌱 I'm currently doing Machine Learning Research and iOS Development work on my free time :D  
-- 📌 I’m currently gaining experience through my personal projects and applying my creativity and artistic skills to create designs and programs that will brighten your day 👩🏻‍💻
+- 📌 I hope to gain experience through my personal projects and apply my creativity and artistic skills to create designs and programs that will brighten your day 
+
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rachruby.hey-visitors!)
