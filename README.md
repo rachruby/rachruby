@@ -1,9 +1,7 @@
-- 👋 Hi, I'm Rubi, an incoming senior high schooler who likes technology.  
-- 🌱 I'm currently doing Machine Learning Research and iOS Development work on my free time :D  
+- 👋 Hi, I'm Ruitong, a First Year Computer Engineering Student @ UWaterloo who likes technology.  
+- 🌱 I like to compete in hackathons and iOS Development work during my free time :D  
 - 📌 I hope to gain experience through my personal projects and apply my creativity and artistic skills to create designs and programs that will brighten your day 
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rachruby.hey-visitors!)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
