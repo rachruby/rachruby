@@ -1,6 +1,6 @@
- 👋 Hi, I'm Ruitong, an incoming second year Computer Engineering Student @ UWaterloo who likes technology.  
- 🌱 I like to compete in hackathons during my free time :D  
- 📌 I hope to gain experience through my personal projects and apply my creativity and artistic skills to create designs and programs that will brighten your day 
+ 👋 Hi, I'm Ruitong, a second year Computer Engineering Student @ UWaterloo who likes computer vision, software development and ux design.  
+ 🌱 5x hackathon winner specialize in HCI concepts, computer vision, and AI/ML-integrated web and iOS application
+ 📌 I hope to gain experience through my personal projects and apply my creativity and technical skills to create apps that will brighten your day 
 
 
  💞️ I’m looking to collaborate on future hackathons! 
