@@ -6,7 +6,7 @@
  
  💞️ I’m looking to collaborate on future hackathons! 
  
- 📫 Reach me on LinkedIn!
+ 📫 Connect with me on LinkedIn!
 
 <!--
 rachruby/rachruby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
