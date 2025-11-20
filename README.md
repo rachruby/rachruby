@@ -1,4 +1,6 @@
- 👋 Hi, I'm Ruitong, a second year Computer Engineering student @ UWaterloo who likes computer vision, software development and ux design.  
+![GitHub Header Banner](assets/github-header-banner.png)
+
+ 👋 A third year Computer Engineering student @ UWaterloo who likes computer vision, software development and ux design.  
  
  🌱 7x hackathon winner specialize in HCI, computer vision, and AI/ML-integrated web and iOS application
  
