@@ -1,7 +1,7 @@
 <!-- GitHub Profile Header -->
 <table width="100%">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" valign="center">
       <!-- Banner -->
       <img src="assets/github-header-banner.png" alt="GitHub Banner" width="100%" style="border-radius: 12px;" />
     </td>
