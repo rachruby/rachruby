@@ -4,8 +4,10 @@
   <tr>
     <td>
 
-      <!-- Vertical Donut Chart -->
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachruby&layout=donut-vertical)](https://github.com/rachruby)
+      <!-- Vertical Donut Chart as HTML -->
+      <a href="https://github.com/rachruby">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachruby&layout=donut-vertical" alt="Top Langs" />
+      </a>
 
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
