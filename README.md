@@ -1,14 +1,29 @@
 ![GitHub Header Banner](assets/github-header-banner.png)
 
- 👋 A third year Computer Engineering student @ UWaterloo who likes computer vision, software development and ux design.  
- 
- 🌱 7x hackathon winner specialize in HCI, computer vision, and AI/ML-integrated web and iOS application
- 
- 📌 I hope to gain experience through my personal projects and apply my creativity and technical skills to create apps that will brighten your day 
- 
- 💞️ I’m looking to collaborate on future projects/hackathons!
- 
- 📫 Connect with me on LinkedIn!
+<table>
+  <tr>
+    <td>
+
+      <!-- Vertical Donut Chart -->
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachruby&layout=donut-vertical)](https://github.com/rachruby)
+
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+
+      <!-- Description -->
+      👋 A third year Computer Engineering student @ UWaterloo who likes computer vision, software development and UX design.<br><br>
+      
+      🌱 7x hackathon winner specializing in HCI, computer vision, and AI/ML-integrated web and iOS applications<br><br>
+      
+      📌 I hope to gain experience through my personal projects and apply my creativity and technical skills to create apps that will brighten your day<br><br>
+      
+      💞️ I’m looking to collaborate on future projects/hackathons!<br><br>
+      
+      📫 Connect with me on <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>!
+
+    </td>
+  </tr>
+</table>
 
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachruby)](https://github.com/rachruby)
 
