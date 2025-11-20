@@ -12,13 +12,6 @@
       <a href="https://github.com/rachruby">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachruby&layout=donut-vertical" alt="Top Languages" style="border-radius: 12px;" />
       </a>
-      
-      <br><br>
-
-      <!-- Optional GitHub Stats Card -->
-      <a href="https://github.com/rachruby">
-        <img src="https://github-readme-stats.vercel.app/api?username=rachruby&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" style="border-radius: 12px;" />
-      </a>
     </td>
     <td width="55%" valign="top" style="padding-left: 20px;">
 
