@@ -18,4 +18,4 @@
 </table>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachruby)](https://github.com/rachruby)
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachruby)](https://github.com/rachruby)-->
